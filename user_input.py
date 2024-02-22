@@ -1,0 +1,7 @@
+Name=input("what is your name?")
+Age=input("what is your Age?")
+Location=input("what is your Location?")
+input("Hello")
+input("Name?")
+input("Age?")
+input("Location?")
